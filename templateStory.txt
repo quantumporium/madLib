@@ -1,0 +1,15 @@
+-=-=-=-=-=- Example of story -=-=-=-=-=-
+
+parts of speech that I will ask about : noun - adjective - adverbe - verbe
+
+1: Once upon a time adj-3 noun-3 verb-1 
+Once upon a time, there was a {noun1} the {noun1} was very {adj1}. He lived in a {adj2} town named {noun2}. 
+Legend say that no one was more {adj1} and {adj3} then {noun1}. {Noun1} ad an {noun3} and together then {adv1} {verb1}. 
+
+2: Since the dawn of {noun}, the clan of {noun} worked with the clan of  {noun}. They worked but they didn't {verb} each other. This distpute begin when two {noun} {verb} a really import item from the leader of the {noun}. This item was an {adj} {noun} and was the most precious item of the {noun}. 
+
+3: Yesterday, {noun} and is {adj} {noun} whent on a {verb}. It wasn't long after the beginning of their {verb} that {noun} started to feel sick.
+
+4: It was an {adj} day when I decided to go for a {verb}. I decided to go for a {verb} because I wasn't feeling well. I failed my {noun} exam and felt bad because I {verb} really hard for it. But I am not still defeated I will {noun} harder for the next exam and I will {verb} because I am an {adj} {noun}.
+
+5: { noun } and { noun } knew each other since they were {adj} {noun}. And since then they knew that they had something in common. As a matter of fact they both worked for {noun}. { noun } was an { adj } { noun }. He run all the north side of the city called { noun }. Nothing could get in the way of { noun }. His favorite activity is to { verb } and to  { verb }, which is weird giving the fact that he is { adj }.
