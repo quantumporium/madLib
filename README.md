@@ -5,7 +5,7 @@ python.
 # Content table
 - Installation
 - Usage
-- Testing
+- Feature
 - License
 
 # Installation
@@ -15,7 +15,20 @@ You can install this project either by using the graphical interface of github o
 git clone https://github.com/quantumporium/madLib	# clone with github command line
 
 ```
+# Usage
+In order to use it you only need to start it up from the terminal by using python3 interpreter or the .(dot) syntax in linux.
 
+```sh
+python3 madLib.py
+python  madLib.py
+```
+
+```sh
+./madLib.py
+```
+
+# Feature
+There are 4 stories in total for the madlibs. Each time you play the game at story will be chosen at random.
 
 # License
 This project use the [GPL.V2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html") license.
